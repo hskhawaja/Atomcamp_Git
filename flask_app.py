@@ -1,6 +1,5 @@
 #!/usr/bin/python -tt
 
-import GetOldTweets3 as got
 from flask import Flask, render_template, request, jsonify
 import requests
 import pandas as pd
